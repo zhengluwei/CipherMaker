@@ -8,7 +8,7 @@ CipherMaker 2.0程序说明：
 4、加QQ群:129293051（或者是微信号mxiaozhengcn）可以进行交流学习。 
 
 本程序演示网址为：http://mima.mxiaozheng.cn/
-本程序归小郑网络工作室（www.mxiaozheng.cn）版权所有。
+本程序归小郑网络工作室(www.mxiaozheng.cn)版权所有。
 
 作者：Eiwell 2016.11.2
 
